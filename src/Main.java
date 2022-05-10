@@ -4,7 +4,7 @@ public class Main {
         int number = 6;
         int number1 = 4;
         int number2 = 20;
-        String name = "Keesie";
+        String name = "Kees";
 
 
         hello();
