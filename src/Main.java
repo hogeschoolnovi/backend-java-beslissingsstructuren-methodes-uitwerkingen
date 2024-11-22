@@ -56,12 +56,15 @@ public class Main {
             // als de waarde "Cassie" is
             case "Cassie":
                 System.out.println("Cassie wants a withe wine");
+                break;
             // als de waarde "Jack" is
             case "Jack":
                 System.out.println("Jack wants a coke");
+                break;
             // als de waarde "Nicky" is
             case "Nicky":
                 System.out.println("Nicky wants a red wine");
+                break;
         }
     }
 
